@@ -121,6 +121,8 @@
   font-size: 1.6em;
 }
 /* FontAwesome4 icons */
+.h5p-dragnbar-speakthewords-button:before,
+.h5p-dragnbar-speakthewordsset-button:before,
 .h5p-dragnbar-table-button:before,
 .h5p-dragnbar-link-button:before,
 .h5p-dragnbar-image-button:before,
@@ -244,6 +246,12 @@
 }
 .h5p-dragnbar-shape-horizontal-line-button:before {
   content: "\e91e";
+}
+.h5p-dragnbar-speakthewords-button:before {
+  content: "\f075";
+}
+.h5p-dragnbar-speakthewordsset-button:before {
+  content: "\f086";
 }
 
 .h5p-dragnbar-li-ul {

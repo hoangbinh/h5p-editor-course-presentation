@@ -2,7 +2,7 @@
   "title": "Course Presentation Editor",
   "majorVersion": 1,
   "minorVersion": 25,
-  "patchVersion": 6,
+  "patchVersion": 7,
   "runnable": 0,
   "machineName": "H5PEditor.CoursePresentation",
   "author": "Joubel",
@@ -172,6 +172,16 @@
     {
       "machineName": "H5P.MultiMediaChoice",
       "majorVersion": 0,
+      "minorVersion": 3
+    },
+    {
+      "machineName": "H5P.SpeakTheWords",
+      "majorVersion": 1,
+      "minorVersion": 5
+    },
+    {
+      "machineName": "H5P.SpeakTheWordsSet",
+      "majorVersion": 1,
       "minorVersion": 3
     }
   ]
